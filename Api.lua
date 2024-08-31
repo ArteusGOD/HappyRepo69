@@ -1,1 +1,1 @@
-gg.alert("change")
+gg.alert("gangbang")
